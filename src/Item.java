@@ -1,5 +1,5 @@
 /**
- * Representa un artículo con nombre y precio.
+ * Representa un pieza de ropa con nombre y precio.
  */
 public class Item {
     private final String nombre;
